@@ -1,0 +1,4 @@
+sendgrid 
+fastapi 
+uvicorn
+pydantic
